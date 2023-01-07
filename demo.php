@@ -8,7 +8,7 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-sm-6 bg-dark text-white">
-      <h2>About</h2>
+      <h2>About me</h2>
       
     </div>
     <div class="col-sm-6 bg-secondary">
